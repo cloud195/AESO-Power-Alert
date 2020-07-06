@@ -1,0 +1,23 @@
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\AESO -Power Alert.exe.config
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\AESO -Power Alert.exe
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\AESO -Power Alert.pdb
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO__Power_Alert.Form1.resources
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO__Power_Alert.Properties.Resources.resources
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO -Power Alert.csproj.GenerateResource.cache
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO -Power Alert.csproj.CoreCompileInputs.cache
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO -Power Alert.csproj.CopyComplete
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO -Power Alert.exe
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO -Power Alert.pdb
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO -Power Alert.csprojAssemblyReference.cache
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\Jsoup.dll
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\AESO -Power Alert.exe.manifest
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\AESO -Power Alert.application
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO -Power Alert.exe.manifest
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\obj\Debug\AESO -Power Alert.application
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
