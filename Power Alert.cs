@@ -212,61 +212,56 @@ namespace AESO__Power_Alert
             {
                 PowerMode = 1;
 
-                txtDH16nm.Text = "Full";
-                txt3H16nm.Text = "Full";
-                txtDHClarke.Text = "Full";
-                txt3HClarke.Text = "Full";
+                txtDH16nm.Text = dataGridView1[1, 0].Value.ToString();
+                txtCMH16nm.Text = "";
+                txtDHClarke.Text = dataGridView1[2, 0].Value.ToString();
+                txtCMHClarke.Text = dataGridView1[3, 0].Value.ToString();
                 txtDHMin.Text = (DHDispatch + 1).ToString();
-                txt3HMin.Text = (THDispatch + 1).ToString();
-                txtCMHPower.Text = "Full";
+                txtCMHMin.Text = (THDispatch + 1).ToString();
             }
             else if (dblPrice >= LowerBound && dblPrice <= Range1b -1)
             {
                 PowerMode = 2;
 
                 txtDH16nm.Text = "ECO";
-                txt3H16nm.Text = "ECO";
+                txtCMH16nm.Text = "";
                 txtDHClarke.Text = "Full";
-                txt3HClarke.Text = "Full";
+                txtCMHClarke.Text = "Full";
                 txtDHMin.Text = (DHDispatch + 1).ToString();
-                txt3HMin.Text = (THDispatch + 1).ToString();
-                txtCMHPower.Text = "Full";
+                txtCMHMin.Text = (THDispatch + 1).ToString();
             }
             else if (dblPrice >= Range2a && dblPrice <= Range2b -1)
             {
                 PowerMode = 3;
 
                 txtDH16nm.Text = "ECO";
-                txt3H16nm.Text = "ECO";
+                txtCMH16nm.Text = "";
                 txtDHClarke.Text = "Full";
-                txt3HClarke.Text = "Full";
+                txtCMHClarke.Text = "Full";
                 txtDHMin.Text = (DHDispatch + 1).ToString();
-                txt3HMin.Text = (THDispatch + 1).ToString();
-                txtCMHPower.Text = "42MW";
+                txtCMHMin.Text = (THDispatch + 1).ToString();
             }
             else if (dblPrice >= Range3a && dblPrice <= Range3b -1)
             {
                 PowerMode = 4;
 
                 txtDH16nm.Text = "Standby";
-                txt3H16nm.Text = "Standby";
+                txtCMH16nm.Text = "";
                 txtDHClarke.Text = "ECO";
-                txt3HClarke.Text = "ECO";
+                txtCMHClarke.Text = "ECO";
                 txtDHMin.Text = (DHDispatch + 1).ToString();
-                txt3HMin.Text = (THDispatch + 1).ToString();
-                txtCMHPower.Text = "42MW";
+                txtCMHMin.Text = (THDispatch + 1).ToString();
             }
             else if (dblPrice >= UpperBound)
             {
                 PowerMode = 5;
 
                 txtDH16nm.Text = "Standby";
-                txt3H16nm.Text = "Standby";
+                txtCMH16nm.Text = "";
                 txtDHClarke.Text = "Standby";
-                txt3HClarke.Text = "STandby";
+                txtCMHClarke.Text = "STandby";
                 txtDHMin.Text = (DHDispatch + 1).ToString();
-                txt3HMin.Text = (THDispatch + 1).ToString();
-                txtCMHPower.Text = "42MW";
+                txtCMHMin.Text = (THDispatch + 1).ToString();
             }
         }
 
@@ -361,12 +356,12 @@ namespace AESO__Power_Alert
             txtDHSet.Text = "";
         }
 
-        private void BtnSet3H_Click(object sender, EventArgs e)
+        private void BtnSetCMH_Click(object sender, EventArgs e)
         {
-            THDispatch = Convert.ToInt32(txt3HSet.Text);
-            txt3HDispatch.Text = THDispatch.ToString();
+            THDispatch = Convert.ToInt32(txtCMHSet.Text);
+            txtCMHDispatch.Text = THDispatch.ToString();
             updatePowerMode();
-            txt3HSet.Text = "";
+            txtCMHSet.Text = "";
         }
 
         private void BtnTest_Click(object sender, EventArgs e)

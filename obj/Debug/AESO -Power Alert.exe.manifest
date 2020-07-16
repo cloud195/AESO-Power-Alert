@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AESO -Power Alert.exe" size="316400">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AESO -Power Alert.exe" size="317424">
       <assemblyIdentity name="AESO -Power Alert" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gWPfemnvDth/+Lc2MHaDXeoDOf0DCndoyeklOlwOLEs=</dsig:DigestValue>
+        <dsig:DigestValue>crjC3K2EokrUQ0VsiN6+B62Sd1GOrTiowFiYyp6ig10=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
