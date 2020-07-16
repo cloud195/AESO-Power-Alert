@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AESO -Power Alert", "AESO -Power Alert.csproj", "{545D397A-B658-4713-82CD-36AA2F83F1E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545D397A-B658-4713-82CD-36AA2F83F1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545D397A-B658-4713-82CD-36AA2F83F1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545D397A-B658-4713-82CD-36AA2F83F1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545D397A-B658-4713-82CD-36AA2F83F1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63CF2536-7DA5-4C03-B8E8-4BC0B089E666}
+	EndGlobalSection
+EndGlobal

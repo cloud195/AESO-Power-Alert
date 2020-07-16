@@ -20,7 +20,7 @@ namespace AESO__Power_Alert
         int PowerMode = 0;
         double dblPrice = 0;
         string strPrice = "";
-        System.Media.SoundPlayer player;
+        System.Media.SoundPlayer player = new System.Media.SoundPlayer();
 
         //Drumheller Power Variables
         int DHDispatch = 0;
@@ -122,7 +122,6 @@ namespace AESO__Power_Alert
 
         private void Button2_Click(object sender, EventArgs e)
         {
-
                 player.Stop();
                 soundPlaying = false;
         }

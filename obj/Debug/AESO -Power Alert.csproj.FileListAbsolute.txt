@@ -21,3 +21,22 @@ C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\GemBox.Spr
 C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
 C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\GemBox.Spreadsheet.xml
 C:\Users\Bronson\source\repos\Power Alert\AESO -Power Alert\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\AESO -Power Alert.exe.config
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\AESO -Power Alert.exe.manifest
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\AESO -Power Alert.application
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\AESO -Power Alert.exe
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\AESO -Power Alert.pdb
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO -Power Alert.csprojAssemblyReference.cache
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO__Power_Alert.Form1.resources
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO__Power_Alert.Properties.Resources.resources
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO -Power Alert.csproj.GenerateResource.cache
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO -Power Alert.csproj.CoreCompileInputs.cache
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO -Power Alert.exe.manifest
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO -Power Alert.application
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO -Power Alert.csproj.CopyComplete
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO -Power Alert.exe
+C:\Users\Thebest\source\repos\AESO-POWER-ALERT\obj\Debug\AESO -Power Alert.pdb
